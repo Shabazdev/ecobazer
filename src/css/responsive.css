@@ -1,0 +1,317 @@
+@media (max-width: 991.99px) {
+  #productMain .headers h2 {
+    padding-top: 40px;
+    font-size: 23px;
+  }
+  #drinks {
+    padding: 30px 0;
+  }
+  #bannerSm .bannerImg .discount {
+    width: 50px;
+    height: 50px;
+    background: #ff8a00;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    right: 20px;
+  }
+  #newsLetter {
+    padding: 311px 0 40px;
+  }
+  #bannerSm .bannerImg .discount p {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    color: var(--gray-scale-white);
+  }
+
+  #bannerSm .bannerImg .discount span {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 10px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--gray-scale-white);
+    transform: translateY(-40%);
+    display: block;
+  }
+
+  #bannerSm .bannerText p {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--branding-success);
+  }
+
+  #bannerSm .bannerText h1 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--gren-gray-scale-900);
+    margin: 10px 0 10px 0;
+    text-align: left;
+  }
+
+  .bannerText span {
+    text-align: left;
+  }
+
+  .bannerText button {
+    margin: 10px auto;
+  }
+
+  #bannerSm {
+    width: 100%;
+    position: relative;
+  }
+
+  .bgImage1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .bgImage2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+
+  .bgImage3 {
+    position: absolute;
+    right: 0;
+  }
+  #bestDeals .middleItems h2 {
+    font-size: 24px;
+  }
+  #review .head {
+    font-size: 24px;
+    padding-top: 50px;
+  }
+  #latestNews .head {
+    font-size: 28px;
+  }
+  #features {
+    transform: translateY(0%);
+  }
+
+  #productMain .headers .navigation a {
+    font-size: 12px;
+  }
+
+  #popup .popup2 {
+    position: fixed;
+    width: 80%;
+    height: 65%;
+  }
+
+  #popup .popText .subscribe button {
+    right: 0;
+    width: 100px;
+  }
+
+  #popup .popText h3 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+    color: var(--gray-scale-gray-–-900);
+  }
+
+  #popup .popText .dontShow p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--gray-scale-gray-–-600);
+    margin: 0;
+    margin-left: 5px;
+  }
+
+  #popup .popText .subscribe input {
+    border: 1px solid var(--gray-scale-gray-–-100);
+    border-radius: 46px;
+    padding: 14px 24px;
+    font-size: 12px;
+    width: 300px;
+    height: 49px;
+    background: var(--gray-scale-white);
+    outline: none;
+  }
+
+  #popup .popText .sub {
+    width: 100%;
+  }
+
+  #popup .close-btn {
+    position: absolute;
+    top: 0px;
+    font-size: 20px;
+    margin-top: 5px;
+    background: #fff;
+  }
+
+  #bestDeals .middleItems h2 {
+    margin-bottom: 17px;
+  }
+
+  #bestDeals .middleItems button {
+    margin-bottom: 40px;
+  }
+
+  #drinks .softDrinks {
+    margin: 24px 0;
+  }
+
+  #review {
+    padding-bottom: 200px;
+  }
+
+  #review .reviewCnt {
+    width: 95%;
+    height: auto;
+    padding-bottom: 40px;
+  }
+
+  #review .reviewCnt p {
+    font-size: 14px;
+    width: 90%;
+  }
+
+  #latestNews .newsCnt {
+    width: 100%;
+    height: auto;
+  }
+
+  /* contact page */
+  #details .leftSide {
+    width: 80%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: auto;
+  }
+
+  #details .cntBox {
+    width: 95%;
+    height: auto;
+  }
+
+  #details .formCnt {
+    width: 100%;
+    height: auto;
+  }
+
+  #details .formCnt .d-flex input {
+    width: 100%;
+    height: 49px;
+    font-size: 10px;
+    margin-right: 4px;
+  }
+
+  #details .formCnt .sub {
+    width: 100%;
+    height: 49px;
+    font-size: 10px;
+  }
+
+  #details .formCnt textarea {
+    width: 100%;
+    height: 98px;
+    font-size: 10px;
+  }
+
+  #details .formCnt button {
+    width: 100%;
+    height: 51px;
+  }
+
+  #details .formCnt p {
+    width: 100%;
+  }
+
+  #details .formCnt .formd {
+    margin-left: 10px;
+  }
+  #latestNews {
+    transform: translateY(18%);
+  }
+  #video img {
+    transform: translateY(-85%);
+  }
+  #latestNews .newsCnt .text a {
+    padding-bottom: 5px;
+  }
+  /*  Product ditails page */
+  /* MOBILE VIEW */
+  .thumbnail-list {
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .thumb {
+    width: 70px;
+  }
+
+  .main-image img {
+    width: 100%;
+    max-height: 70vh;
+  }
+
+  .main-image {
+    height: 300px;
+    margin-bottom: 15px;
+  }
+  .details h1 {
+    margin-top: 10px;
+    font-size: 22px;
+  }
+  .details h1 span {
+    font-size: 13px;
+    padding: 3px 7px;
+  }
+  .review-ro-sku {
+    margin: 10px 0;
+  }
+  .price-ro-offer {
+    margin-bottom: 0px;
+  }
+  .brand-ro-share p {
+    margin: 10px 0 15px;
+  }
+
+  .add-to-cart-btn {
+    padding: 10px;
+  }
+
+  .DAC-btn button {
+    margin: 0;
+  }
+  .DAC-btn button {
+    font-size: 12px;
+  }
+  #featureProduct .head {
+    font-size: 24px;
+    margin: 40px 0 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  #popup .popup2 {
+    position: fixed;
+    width: 80%;
+    height: 90%;
+  }
+}

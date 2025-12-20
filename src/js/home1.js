@@ -8,7 +8,7 @@ function decrement() {
 
 //  Venobox
 $("#countdownOne").syotimer({
-    year: 2022,
+    year: 2026,
     month: 9,
     day: 25,
     hour: 20,
@@ -16,7 +16,7 @@ $("#countdownOne").syotimer({
 });
 
 $("#countdownThree").syotimer({
-    year: 2022,
+    year: 2026,
     month: 9,
     day: 25,
     hour: 20,
