@@ -1,0 +1,6 @@
+{
+  "name": "Ecobazar Organic Store",
+  "description": "An organic food store e-commerce web application template featuring shop catalogs, product details, cart, checkout, blog, user dashboard, and authentication pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
